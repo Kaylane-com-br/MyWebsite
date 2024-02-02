@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.sergiocabral.dev",
-    title: "sergiocabral.dev",
+    siteUrl: "https://www.kaylane.com.br",
+    title: "kaylane.com.br",
   },
   plugins: [
     {
